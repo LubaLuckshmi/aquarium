@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d3c6ab3-937c-45dc-bfaf-bea80fbbe2ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aquarium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bony.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cartilaginous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Echinoderms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ramp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Salmon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SwimSpeed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Urchin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="8d3c6ab3-937c-45dc-bfaf-bea80fbbe2ab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686564014893</updated>
-      <workItem from="1686564016392" duration="6289000" />
+      <workItem from="1686564016392" duration="7039000" />
     </task>
     <servers />
   </component>
